@@ -1,6 +1,6 @@
-# Java Launcher
+# PELauncher: a Minecraft Launcher
 
-Minimal Java Launcher with no known spyware bundled.
+Minimalist Minecraft Launcher with no known spyware bundled.
 
 Supported platforms:
 
@@ -8,7 +8,7 @@ Supported platforms:
 - Linux
 - macOS
 
-Schemas in `mlauncher/schemas/` where generated using [jsonschem2pojo](https://www.jsonschema2pojo.org/).
+Schemas in `pelauncher/schemas/` where generated using [jsonschem2pojo](https://www.jsonschema2pojo.org/).
 
 ## References
 

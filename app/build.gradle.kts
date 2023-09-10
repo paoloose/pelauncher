@@ -37,7 +37,7 @@ java {
 
 application {
     // Define the main class for the application.
-    mainClass.set("mlauncher.App")
+    mainClass.set("pelauncher.App")
 }
 
 tasks.named<Test>("test") {
